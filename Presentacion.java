@@ -6,6 +6,9 @@ public class Presentacion {
         System.out.println("-------------------------------");
         System.out.println("Hola mi nombre es Michael Caceres");
         System.out.println("Yo sere el Scrum Master del Proyecto");
+        System.out.println("-------------------------------");
+        System.out.println("Hola mi nombre es César Andrés Díaz ");
+        System.out.println("Yo sere el diseñador UI");
     }
 }
 

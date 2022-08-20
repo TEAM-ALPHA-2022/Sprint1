@@ -3,7 +3,13 @@ public class Presentacion {
         System.out.println("Hola Mi nombre es Paola Andrea Baquero");
         System.out.println("Soy ingeniera electronica vivo en Villavicencio " +
                 "en este proyecto trabajere como desarrollador");
-        System.out.println("test 1");
+        System.out.println("-------------------------------");
+        System.out.println("Hola mi nombre es Michael Caceres");
+        System.out.println("Yo sere el Scrum Master del Proyecto");
+        System.out.println("-------------------------------");
+        System.out.println("Mi nombre es César Andrés Díaz Sánchez");
+        System.out.println("tabajare como desarrollor en este proyecto");
+
     }
 }
 
